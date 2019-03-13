@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="app_background">#ffac69</color>
+    <color name="app_sub_background">#ffd6b4</color>
+
+    <color name="predict_color_green">#00aa00</color>
+    <color name="predict_color_red">#ff0000</color>
+</resources>
